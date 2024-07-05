@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Administrator\AndroidStudioProjects\ThirdEyeAutomotiveSurveillence\sdk\.cxx\Debug\731o2919\x86'
+ninja: no work to do.
